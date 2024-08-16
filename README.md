@@ -20,6 +20,20 @@ On the ‘Unit Type’ page, you can see that traditional accommodations, includ
 
 ## Technical Details
 
-- SQL environment iteration in Jupyter Notebook using the ipython-sql package.
-- Query performance with SQL using functions such as SELECT, WHERE, JOIN, and ORDER BY.
-- Aggregation functions like SUM, AVG, MAX, and MIN.
+### ETL Process
+
+- **Data Extraction:**
+  - Nine CSV files were imported: listings, neighborhoods, and reviews tables for Q2, Q3, and Q4 of 2023.
+- **Data Cleaning and Transformation (Power Query)**:
+  - Concatenated the Q2, Q3, and Q4 Tables.
+  - Addressed data quality issues such as incorrect data types and duplicate records.
+  - Selected relevant columns for analysis.
+  - Split columns and created new columns and tables.
+- **Data Modeling (Model View):**
+  - Implemented a star schema data model to improve data consistency and query performance.
+
+### Report
+
+- 
+- Implementation of filter panel for a dynamic presentaion.
+- Successfuly implemented DAX for measures and table creation.
