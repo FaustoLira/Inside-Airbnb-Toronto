@@ -32,3 +32,8 @@ On the ‘Unit Type’ page, you can see that traditional accommodations, includ
 - **Data Modeling (Model View):**
   - Implemented a star schema data model to improve data consistency and query performance.
 
+### Report
+
+- 
+- Implementation of filter panel for a dynamic presentaion.
+- Successfuly implemented DAX for measures and table creation.
