@@ -20,7 +20,7 @@ On the ‘Unit Type’ page, you can see that traditional accommodations, includ
 
 ## Technical Details
 
-## ETL Process
+### ETL Process
 
 - **Data Extraction:**
   - Nine CSV files were imported: listings, neighborhoods, and reviews tables for Q2, Q3, and Q4 of 2023.
