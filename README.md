@@ -1,11 +1,13 @@
 # Inside-Airbnb-Toronto
 
+## Introduction
+
+This Power BI presentation examines the Airbnb market in Toronto, offering valuable insights that can benefit investors looking to enter the short-term rental market. Toronto, recognized as one of North America's most vibrant and culturally diverse cities, presents great opportunities for investors in the short-term rental market. The city is also a favorite destination for millions of tourists every year.
+
 **Disclaimer**
 This report is provided for educational purposes only. The information, analyses, and opinions contained herein are based on public data available in [insideairbnb.com](https://insideairbnb.com/get-the-data) about rental prices in 2023.
 
-This presentation examines the Airbnb market in Toronto, offering valuable insights that can benefit investors looking to enter the short-term rental market. Toronto, recognized as one of North America's most vibrant and culturally diverse cities, presents great opportunities for investors in the short-term rental market. The city is also a favorite destination for millions of tourists every year.
-
----
+## Insights and Recommendations
 
 **Insight 1: Strategic Acquisition**  
 Starting from the 'Expected Revenue' page, the average rental price has been on an uptrend since 2010. The analysis shows that **the average rental price could be around $250 in 2028, corresponding to a 25% rental price increase**. However, the price is in a downtrend in the short term, indicating a possible opportunity for buying.
@@ -15,3 +17,9 @@ The 'Key Influencers' chart on the 'Expected Rental Price' page lists the most i
 
 **Insight 3: Characteristics of a “Good” Unit to Invest In**  
 On the ‘Unit Type’ page, you can see that traditional accommodations, including houses and condos, account for 88% of all rental units listed on Airbnb. **Investing in underpriced traditional accommodations in the Waterfront Communities Island could be a great business opportunity.**
+
+## Technical Details
+
+- SQL environment iteration in Jupyter Notebook using the ipython-sql package.
+- Query performance with SQL using functions such as SELECT, WHERE, JOIN, and ORDER BY.
+- Aggregation functions like SUM, AVG, MAX, and MIN.
