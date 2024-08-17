@@ -34,6 +34,6 @@ On the ‘Unit Type’ page, you can see that traditional accommodations, includ
 
 ### Report
 
-- 
+- Created several interactive visualizations to implement storytelling techniques.
 - Implementation of filter panel for a dynamic presentaion.
 - Successfuly implemented DAX for measures and table creation.
