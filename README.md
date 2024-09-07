@@ -24,10 +24,6 @@ offering valuable insights for investors looking to enter the short-term rental 
 - Implementation of filter panel for a dynamic presentaion.
 - Successfuly implemented DAX for measures and table creation.
 
-## Documentation
-
-You can see the project documentation here.
-
 ## Impact
 
 Identified a potential 25% increase in rental prices, offering strategic recommendations on optimal 
